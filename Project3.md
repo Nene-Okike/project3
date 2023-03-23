@@ -606,7 +606,7 @@ font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
 monospace;
 }'
 
-Saave and quit
+Save and quit
 
 Go to the Todo directory
 
